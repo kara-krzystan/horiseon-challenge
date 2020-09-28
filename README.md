@@ -27,3 +27,7 @@ The client has requested a landing page that is optimized for search engines and
 
 ### Website Link ###
 https://kara-krzystan.github.io/horiseon_challenge/
+
+### Screenshot ###
+
+![screenshot](/assets/images/screenshot_horiseon.jpg)
