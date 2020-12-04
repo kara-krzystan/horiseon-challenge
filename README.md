@@ -1,10 +1,10 @@
-# Code Refactor Challenge - Horiseon Website #
+# Code Refactor Challenge: Horiseon Website
 
-## Description ##
+## Description
 
 For this challenge, I was tasked with refactoring the codebase for Horiseon, a fictional marketing agency. 
 
-### Acceptance Criteria ###
+### Acceptance Criteria
 
 * Title element is concise and descriptive
 * Proper usage of semantic HTML elements
@@ -14,7 +14,7 @@ For this challenge, I was tasked with refactoring the codebase for Horiseon, a f
 
 The client has requested a landing page that is optimized for search engines and follows accessibility standards.
 
-### Work Completed ###
+### Work Completed
 
 * Added and optimized the website title
 * Fixed broken internal links
@@ -25,9 +25,9 @@ The client has requested a landing page that is optimized for search engines and
 * Added alt attributes to images
 * Applied the DRY principle to improve the codebase for long-term sustainability
 
-### Website Link ###
+### Website Link
 https://kara-krzystan.github.io/horiseon_challenge/
 
-### Screenshot ###
+### Screenshot
 
 ![screenshot](/assets/images/screenshot_horiseon.jpg)
