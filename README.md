@@ -26,7 +26,7 @@ The client has requested a landing page that is optimized for search engines and
 * Applied the DRY principle to improve the codebase for long-term sustainability
 
 ### Website Link
-https://kara-krzystan.github.io/horiseon_challenge/
+https://kara-krzystan.github.io/horiseon-challenge/
 
 ### Screenshot
 
