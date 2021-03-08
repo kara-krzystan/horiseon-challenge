@@ -31,3 +31,6 @@ https://kara-krzystan.github.io/horiseon_challenge/
 ### Screenshot
 
 ![screenshot](/assets/images/screenshot_horiseon.jpg)
+
+## Contact
+[Kara Krzystan on GitHub](http://github.com/kara-krzystan)
